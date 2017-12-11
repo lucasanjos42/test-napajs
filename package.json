@@ -1,0 +1,14 @@
+{
+  "name": "multi-thread",
+  "version": "1.0.0",
+  "description": "Testing Microsoft's NapaJS multi-threading",
+  "main": "napajs.js",
+  "scripts": {
+    "start": "node napajs.js"
+  },
+  "author": "Lucas Anjos",
+  "license": "ISC",
+  "dependencies": {
+    "napajs": "^0.1.7"
+  }
+}
