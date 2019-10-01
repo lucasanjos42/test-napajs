@@ -12,3 +12,5 @@
     "napajs": "^0.1.7"
   }
 }
+
+// there were found vulnerabilities in this module, please check!
