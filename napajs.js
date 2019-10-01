@@ -1,5 +1,7 @@
 const napa = require("napajs");
 
+// please translate this to english
+
 // Mude esse valor para controler o número de napa workers inicializados
 const NUMBER_OF_WORKERS = 4;
 
